@@ -1,0 +1,41 @@
+@media (max-width: 1440px) { 
+
+ }
+
+@media (min-width: 1221px) and (max-width: 1440px) { 
+
+ }
+
+@media (min-width: 1200px) and (max-width: 1223px) { 
+
+ }
+
+@media(max-width: 900px) { 
+    nav .contain
+    {
+        font-size: 10px;
+        padding: 0px 10px;
+    }
+    nav .contain .btn
+    {
+        width: 100px;
+        font-size: 10px;
+
+    }
+
+}
+@media (min-width: 767px) and (max-width: 992px) { 
+
+}
+@media (min-width: 578px) and (max-width: 768px) { 
+
+}
+@media (min-width: 424px) and (max-width: 576px) { 
+
+}
+@media (min-width: 376px) and (max-width: 425px) { 
+
+}
+@media (min-width: 375px) {
+     
+}
