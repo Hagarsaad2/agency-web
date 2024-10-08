@@ -26,6 +26,13 @@
     src: url(../fonts/popins/Poppins-SemiBold.ttf);
     font-weight: 600;
 }
+img{
+    max-width: 100%;
+    height: auto;
+}
+.box {
+    width: 100%;
+}
 nav .contain
 {
     flex-direction: row;
@@ -297,7 +304,7 @@ header .contain .row .col .row-col1 .plus:hover
 .service .contain .row .col .box
 {
     border: 2px solid var(--secondary-color);
-    border-radius: 20px; 
+    border-radius: 10px; 
     align-items: center;
     text-align: center;
     align-content: center;
